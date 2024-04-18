@@ -49,7 +49,7 @@ The downside is that you won't be able to preview your changes on the documentat
 
 #### A more difficult way with a preview
 
-If you'd like to a preview of your changes, you'll need to clone the repository and run the following commands:
+If you'd like to a preview of your changes, you'll need to fork the repository and clone it and run the following commands:
 
 ```bash
 npm install -g nx
